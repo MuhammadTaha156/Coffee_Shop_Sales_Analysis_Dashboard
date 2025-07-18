@@ -5,6 +5,18 @@
 The main objective of this project is to analyze retail sales data from a coffee shop to gain actionable insights that will enhance its performance. 
 This analysis aims to identify trends, peak sales times, best-selling products, and variations across different store locations and product categories.
 
+## Analysis Source
+
+In this Project we do 
+
+**Data Cleaning**
+
+**Data Processing**
+
+**Data Analysis**
+
+**Interactive Dashboard**
+
 ## Data Source
 
 The analysis is based on the `https://mavenanalytics.io/data-playground?page=3&pageSize=5` Data on Maven Website of Coffee Shop Sales,which contains detailed transaction records for a coffee shop.
